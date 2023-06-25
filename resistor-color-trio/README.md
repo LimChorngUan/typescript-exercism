@@ -52,3 +52,5 @@ That is similar to saying "2 kilometers" instead of "2000 meters", or "2 kilogra
 For example, an input of `"orange", "orange", "orange"` should return:
 
 > "33 kiloohms"
+
+[metric-prefix]: https://en.wikipedia.org/wiki/Metric_prefix
